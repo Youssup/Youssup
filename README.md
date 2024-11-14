@@ -63,13 +63,11 @@ I am a Software Engineer dedicated to learning, solving problems, and guiding as
 
 #
 
-### 📊 Github Stats
+## GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=youssup&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="youssup" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssup&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="youssup" /></td
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssup&theme=dark&show_icons=true&hide_border=false&count_private=true" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssup&theme=dark&show_icons=true&hide_border=false&layout=compact" height="230" />
+</div>
 
 #
