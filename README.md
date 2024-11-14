@@ -65,9 +65,9 @@ I am a Software Engineer dedicated to learning, solving problems, and guiding as
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssup&theme=dark&show_icons=true&hide_border=false&count_private=true" height="230" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssup&theme=dark&show_icons=true&hide_border=false&layout=compact" height="230" />
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssup&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" style="flex-grow: 1; width: auto; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssup&theme=dark&show_icons=true&hide_border=false&layout=compact" height="150" style="flex-grow: 1; width: auto; margin-bottom: 10px;" />
 </div>
 
 #
