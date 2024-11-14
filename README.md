@@ -11,9 +11,8 @@ I am a Software Engineer dedicated to learning, solving problems, and guiding as
 - 📫 How to reach me: **youssupsong@gmail.com**
 - ⚡ Fun fact I love to play piano and guitar
 
----
+#
 
-### Tech Stack
 ### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
