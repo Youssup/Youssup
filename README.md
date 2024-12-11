@@ -2,7 +2,8 @@
 
 **`Software Engineer`**
 
-Hello! My name is Yoosup. I'm a Support Engineer at AgileInfoTech, where I ensure our website and ticketing system runs smoothly. I am also the President of Eleet Coders, leading a community of coding enthusiasts. I am currently pursuing a bachelor's degree in Computer Science, set to graduate in the Fall of 2025. I have a strong commitment to community support and mentorship. You can contact me at yoosupsong@gmail.com
+Hello! My name is Yoosup. I'm a Support Engineer at AgileInfoTech, where I ensure our website and ticketing system runs smoothly. I am also the President of Eleet Coders, leading a community of coding enthusiasts. I am currently pursuing a bachelor's degree in Computer Science, set to graduate in the Fall of 2025. I have a strong commitment to community support and mentorship. 
+Feel free to contact me at yoosupsong@gmail.com
 
 #
 
