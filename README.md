@@ -7,7 +7,7 @@ Hello! 👋 My name is Yoosup. I'm a Support Engineer at <a href="https://www.ai
 #
 
 ### 🚀 More about me
-- 🔨 Currently Working on: **<a href="https://github.com/sunyhydralab/QView3D" target="_blank">QView3D</a>**
+- 🔨 Currently Working on: **<a href="https://github.com/sunyhydralab/QView3D" target="_blank">QView3D</a>** and **<a href="https://github.com/Youssup/Spotiskip" target="_blank">Spotiskip</a>**
 - 👨‍💻 Personal portfolio: **<a href="https://youssup.live" target="_blank">Portfolio</a>**
 - 📫 How to reach me: **youssupsong@gmail.com**
 - ⚡ Fun fact: I love to play piano and guitar
