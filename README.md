@@ -2,15 +2,14 @@
 
 **`Backend Software Engineer`**
 
-Hello! 👋 My name is Yoosup. I'm a Support Engineer at <a href="https://www.aitechny.com/" target="_blank">Agile InfoTech</a> and the President of <a href="https://eleetcoders.com/" target="_blank">Eleet Coders</a>. I am currently pursuing a bachelor's degree in Computer Science, set to graduate in 2025.
+Hello! 👋 My name is Yoosup. I'm currently Interning at USMA West Point as a IT Specialist. I am also a Support Engineer at <a href="https://www.aitechny.com/" target="_blank">Agile InfoTech</a> and the President of <a href="https://eleetcoders.onrender.com/" target="_blank">Eleet Coders</a>. I am currently pursuing a bachelor's degree in Computer Science, set to graduate in 2025.
 
 #
 
 ### 🚀 More about me
-- 🔨 Currently Working on: **<a href="https://github.com/sunyhydralab/QView3D" target="_blank">QView3D</a>** and **<a href="https://github.com/Youssup/Spotiskip" target="_blank">Spotiskip</a>**
+- 🔨 Currently Working on: **<a href="https://github.com/sunyhydralab/QView3D" target="_blank">QView3D</a>**
 - 👨‍💻 Personal portfolio: **<a href="https://youssup.live" target="_blank">Portfolio</a>**
 - 📫 How to reach me: **youssupsong@gmail.com**
-- ⚡ Fun fact: I love to play piano and guitar
 
 #
 [//]: <https://github.com/Ileriayo/markdown-badges>
@@ -35,7 +34,6 @@ Hello! 👋 My name is Yoosup. I'm a Support Engineer at <a href="https://www.ai
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Developer Tools
@@ -46,7 +44,6 @@ Hello! 👋 My name is Yoosup. I'm a Support Engineer at <a href="https://www.ai
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #
 
