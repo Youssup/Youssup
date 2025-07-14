@@ -2,7 +2,7 @@
 
 **`Backend Software Engineer`**
 
-Hello! 👋 My name is Yoosup. I'm currently Interning at <a href="https://www.westpoint.edu/" target="_blank">USMA West Point</a> as a IT Specialist. I am also a Support Engineer at <a href="https://www.aitechny.com/" target="_blank">Agile InfoTech</a> and the President of <a href="https://eleetcoders.onrender.com/" target="_blank">Eleet Coders</a>. I am currently pursuing a bachelor's degree in Computer Science, set to graduate in 2025.
+Hello! 👋 My name is Yoosup. I'm currently Interning at <a href="https://www.westpoint.edu/" target="_blank">USMA West Point</a> as an IT Specialist. I am also a Support Engineer at <a href="https://www.aitechny.com/" target="_blank">Agile InfoTech</a> and the President of <a href="https://eleetcoders.onrender.com/" target="_blank">Eleet Coders</a>. I am currently pursuing a bachelor's degree in Computer Science, set to graduate in 2025.
 
 #
 
