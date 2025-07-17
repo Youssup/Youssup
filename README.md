@@ -7,7 +7,7 @@ Hello! 👋 My name is Yoosup. I'm currently Interning at <a href="https://www.w
 #
 
 ### 🚀 More about me
-- 🔨 Currently Working on: **<a href="https://github.com/sunyhydralab/QView3D" target="_blank">QView3D</a>**
+- 🔨 Currently Working on: **<a href="https://github.com/sunyhydralab/QView3D" target="_blank">QView3D</a>** and **<a href="https://github.com/Youssup/TeamSync" target="_blank">TeamSync</a>**
 - 👨‍💻 Personal portfolio: **<a href="https://youssup.live" target="_blank">Portfolio</a>**
 - 📫 How to reach me: **youssupsong@gmail.com**
 
@@ -32,6 +32,7 @@ Hello! 👋 My name is Yoosup. I'm currently Interning at <a href="https://www.w
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
